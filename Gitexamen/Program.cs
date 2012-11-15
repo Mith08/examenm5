@@ -9,6 +9,9 @@ namespace Gitexamen
     {
         static void Main(string[] args)
         {
+            System.Console.Write("hola mundo");
+            System.Console.Write("Bergelo");
+            System.Console.Write("Bergelakout");
         }
     }
 }
